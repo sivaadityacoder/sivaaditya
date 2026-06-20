@@ -81,18 +81,7 @@ I'm **[`Siva Aditya Panuganti`](https://github.com/sivaadityacoder)**, Founder o
   [![GitHub Streak](https://streak-stats.demolab.com?user=sivaadityacoder&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats) 
  <p align="left"><a href="https://github.com/sivaadityacoder/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivaadityacoder&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450"" /></a></p>
 
-<br><br>
 
-<h2 id="donate" align=''> Support⚡️</h2>
-
-<details>
-<summary>Buy Me A Coffee</summary>
-
-<p align="center"><img src="https://github.com/user-attachments/assets/b4b5c22b-2402-4c52-8a62-a298c24347dc" width="80%" height="auto"/></p>
-
-<p align="center"><a href="https://buymeacoffee.com/"><img  src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a></p>
-
-</details>
 
 <p align="center">
   <b><i>"Securing the future, one vulnerability at a time."</i></b>
